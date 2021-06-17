@@ -1,0 +1,1 @@
+It's a drop-down card plugin. Pictures of funny and cute dogs is used by me, however you can edit the code and choose pictures for your interests for perhaps your future site. Plugin is written using HTML, CSS and JavaScript.
